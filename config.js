@@ -190,12 +190,14 @@ When I'm not building AI systems or researching AI alignment, I enjoy teaching, 
     {
       title: "Analyzing the relationship among household decision making and financial literacy: Evidence from Bangladesh (Preprint)",
       authors: "Ali, H. J., Hasan, R., Sultana, M., Yousufi, N. A. S., Salsabil, R., & Hanif, M. B.",
+      venue: "SSRN e-Journal",
       year: "2023",
       link: "https://doi.org/10.2139/ssrn.4637041"
     },
     {
       title: "A Moral Naturalist Account of AI Alignment and Ethics (Preprint)",
       authors: "Ali, H. J.",
+      venue: "SSRN e-Journal",
       year: "2026",
       link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6523359"
     }
