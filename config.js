@@ -183,7 +183,7 @@ When I'm not building AI systems or researching AI alignment, I enjoy teaching, 
     {
       title: "Social media polarization during conflict: Insights from an ideological stance dataset on Israel-Palestine Reddit comments",
       authors: "Ali, H. J., Abrar, A., Hossain, S. M. H., & Mridha, M. F.",
-      venue: "Social Network Analysis and Mining (under review)",
+      venue: "Social Network Analysis and Mining",
       year: "2026",
       link: "https://link.springer.com/article/10.1007/s13278-026-01604-5"
     },
