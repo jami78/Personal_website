@@ -114,24 +114,24 @@ When I'm not building AI systems or researching AI alignment, I enjoy teaching, 
 
   // Projects
   projects: [
-    {
-      title: "CogniAlign: Multi-Agent Moral Reasoning",
-      category: "Research",
-      description: "The first AI alignment proposal from Bangladesh — based on moral naturalism through deliberation among scientist agents. Survivability-grounded multi-agent moral reasoning for safe and transparent AI systems.",
-      tags: ["AI Alignment", "AI Ethics", "Multi-Agent Systems", "Moral Naturalism"],
-      link: "https://arxiv.org/abs/2509.13356",
-      github: "",
-      image: "" // Optional: path to project image
-    },
-    {
-      title: "Social Media Polarization Analysis",
-      category: "Research",
-      description: "Ideological stance dataset on Israel-Palestine Reddit comments analyzing conflict polarization.",
-      tags: ["NLP", "Social Network Analysis", "Python"],
-      link: "https://arxiv.org/abs/2502.00414",
-      github: "",
-      image: ""
-    },
+    // {
+    //   title: "CogniAlign: Multi-Agent Moral Reasoning",
+    //   category: "Research",
+    //   description: "The first AI alignment proposal from Bangladesh — based on moral naturalism through deliberation among scientist agents. Survivability-grounded multi-agent moral reasoning for safe and transparent AI systems.",
+    //   tags: ["AI Alignment", "AI Ethics", "Multi-Agent Systems", "Moral Naturalism"],
+    //   link: "https://arxiv.org/abs/2509.13356",
+    //   github: "",
+    //   image: "" // Optional: path to project image
+    // },
+    // {
+    //   title: "Social Media Polarization Analysis",
+    //   category: "Research",
+    //   description: "Ideological stance dataset on Israel-Palestine Reddit comments analyzing conflict polarization.",
+    //   tags: ["NLP", "Social Network Analysis", "Python"],
+    //   link: "https://arxiv.org/abs/2502.00414",
+    //   github: "",
+    //   image: ""
+    // },
     {
       title: "News Fact Checker",
       category: "Agentic AI",
@@ -175,26 +175,29 @@ When I'm not building AI systems or researching AI alignment, I enjoy teaching, 
     {
       title: "CogniAlign: Survivability-Grounded Multi-Agent Moral Reasoning for Safe and Transparent AI",
       authors: "Ali, H. J., Azam, I., Abrar, A., Hasan, M. K., & Mahmud, H.",
-      venue: "AI and Ethics (under review)",
-      year: "2025",
-      link: "https://arxiv.org/abs/2509.13356",
-      citations: 0,
+      venue: "AI and Ethics",
+      year: "2026",
+      link: "https://link.springer.com/article/10.1007/s43681-026-01107-1",
       highlight: "First AI alignment proposal from Bangladesh — based on moral naturalism through deliberation among scientist agents"
     },
     {
       title: "Social media polarization during conflict: Insights from an ideological stance dataset on Israel-Palestine Reddit comments",
       authors: "Ali, H. J., Abrar, A., Hossain, S. M. H., & Mridha, M. F.",
       venue: "Social Network Analysis and Mining (under review)",
-      year: "2025",
-      link: "https://arxiv.org/abs/2502.00414"
+      year: "2026",
+      link: "https://link.springer.com/article/10.1007/s13278-026-01604-5"
     },
     {
-      title: "Analyzing the relationship among household decision making and financial literacy: Evidence from Bangladesh",
+      title: "Analyzing the relationship among household decision making and financial literacy: Evidence from Bangladesh (Preprint)",
       authors: "Ali, H. J., Hasan, R., Sultana, M., Yousufi, N. A. S., Salsabil, R., & Hanif, M. B.",
-      venue: "SN Business & Economics (under review)",
       year: "2023",
-      link: "https://doi.org/10.2139/ssrn.4637041",
-      citations: 0
+      link: "https://doi.org/10.2139/ssrn.4637041"
+    },
+    {
+      title: "A Moral Naturalist Account of AI Alignment and Ethics (Preprint)",
+      authors: "Ali, H. J.",
+      year: "2026",
+      link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6523359"
     }
   ],
 
